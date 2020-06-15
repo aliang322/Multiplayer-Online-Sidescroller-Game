@@ -1,4 +1,4 @@
-# Multiplayer-Online-Sidescroller-Game-PC
+# Multiplayer Online Sidescroller Game for PC
 Sidescroller platformer game with real-time multiplayer and regional server support using Photon Unity Network engine.
 
 ### Connecting to game server
